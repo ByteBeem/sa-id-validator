@@ -1,6 +1,6 @@
 {
   "name": "@bytebeem/sa-id-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple module to validate South African ID numbers",
   "repository": {
     "type": "git",
