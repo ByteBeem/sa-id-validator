@@ -1,11 +1,15 @@
 {
   "name": "@bytebeem/sa-id-validator",
-  "version": "1.0.1",
-  "description": "A simple module to validate South African ID numbers and extract useful information such as date of birth, age, gender, citizenship, and race.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
+  "version": "1.0.0",
+  "description": "A simple module to validate South African ID numbers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bytebeem/sa-id-validator"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Donald Mxolisi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytebeem/sa-id-validator/issues"
+  },
+  "homepage": "https://github.com/bytebeem/sa-id-validator#readme"
 }
