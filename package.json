@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/bytebeem/sa-id-validator/issues"
   },
-  "homepage": "https://github.com/bytebeem/sa-id-validator#readme"
+  "homepage": "https://github.com/bytebeem/sa-id-validator#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
